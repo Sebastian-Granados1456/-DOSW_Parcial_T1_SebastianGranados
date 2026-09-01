@@ -25,7 +25,9 @@
 ## 3. Diagrama de casos de uso
 ![Diagrama de casos de uso.drawio.png](docs/images/Diagrama%20de%20casos%20de%20uso.drawio.png)
 
+## 4. Plantilla Anáisis de Requerimientos
 
+![Plantilla figma.png](Plantilla%20figma.png)
 ---
 
 ## Evidencias
