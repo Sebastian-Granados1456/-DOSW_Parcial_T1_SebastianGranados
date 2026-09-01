@@ -1,10 +1,10 @@
 # DOSW_Parcial_T1_SebastianGranados
 
+**Link repositorio Bitacora:** https://github.com/Sebastian-Granados1456/Bitacora.git
 **Nombre completo:** Sebastián Camilo Granados López
 **Grupo:** DOSW 01
 
 ## Enunciado asignado (Parte 3)
-*(se completa durante la sesión del parcial)*
 
 ---
 
