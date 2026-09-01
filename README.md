@@ -26,6 +26,22 @@
 ![Diagrama de casos de uso.drawio.png](docs/images/Diagrama%20de%20casos%20de%20uso.drawio.png)
 
 
+## 5. Descomposición de tareas
+
+**Épica:**  
+
+UFH - UNIVERSITY HUB FOOD
+* Permitir a los usuarios de la cafetería construir y personalizar pedidos de comida de forma flexible y ordenada.
+
+**Feature:**
+
+Construcción y personalización de pedidos
+* Como parte de gestión de pedidos, el sistema debe permitir la construcción de un pedido paso a paso y aplicar personalizaciones dinámicas a cada producto sin modificar su estructura base.
+
+**Historia de Usuario:**
+* Como cliente quiero armar mi pedido seleccionado hasta 5 productos diferentes, cada uno con sus propios extras para poder personalizar mi comida antes de la confirmación de mi compra.
+
+
 ---
 
 ## Evidencias
