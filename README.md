@@ -11,8 +11,8 @@
 
 **Funcionales:**
 
-* Cada pedido puede componerse de múltiples productos y personalizarse con ingredientes adicionales.
-* Cada pedido se construye seleccionando: un producto base, una o más opciones de personalización (extras) y una preferencia de entrega.
+* Cada pedido puede componerse de múltiples productos y personalizarse con ingredientes adicionales. (Builder) 
+* Cada pedido se construye seleccionando: un producto base, una o más opciones de personalización (extras) y una preferencia de entrega. (Decorator)
 * El sistema debe soportar hasta 300 pedidos simultáneos en horario pico.
 
 **No Funcionales:**
