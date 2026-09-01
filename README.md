@@ -7,7 +7,7 @@
 ## Enunciado asignado: DOSW Parcial #3
 
 ## 1.
-![Diagrama de Contexto.drawio (1).png](..%2F..%2FDiagrama%20de%20Contexto.drawio%20%281%29.png)
+![Diagrama de Contexto.drawio.png](..%2F..%2FDiagrama%20de%20Contexto.drawio%20%281%29.png)
 
 ## 2. Requerimientos
 
@@ -23,9 +23,7 @@
 * Tipografía: Poppins (Google Fonts)
 
 ## 3. Diagrama de casos de uso
-
-![Diagrama de casos de uso.drawio.png](..%2F..%2FDiagrama%20de%20casos%20de%20uso.drawio.png)
-
+![Diagrama de casos de uso.drawio.png](docs/images/Diagrama%20de%20casos%20de%20uso.drawio.png)
 
 ---
 
