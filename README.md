@@ -1,14 +1,34 @@
-# -DOSW_Parcial_T1_SebastianGranados
+# DOSW_Parcial_T1_SebastianGranados
 
-Sebastián Camilo Granados López
-Grupo 01
+**Nombre completo:** Sebastián Camilo Granados López
+**Grupo:** DOSW 01
 
-Evidencias:
+## Enunciado asignado (Parte 3)
+*(se completa durante la sesión del parcial)*
 
-![img.png](img.png)
+---
 
-![img_1.png](img_1.png)
+## Evidencias
 
+### Herramienta de modelado — Draw.io
+![Acceso activo a draw.io](docs/images/evidencia_drawio.png)
 
+### Figma
+![Acceso activo a Figma](docs/images/evidencia_figma.png)
 
-3. 
+### Proyecto Maven corriendo correctamente
+Salida de `mvn test` — compila y ejecuta el test de `AppTest` sin errores
+(ver [`docs/images/evidencia_maven_test.txt`](docs/images/evidencia_maven_test.txt)):
+
+```
+[INFO] Running edu.dosw.parcial.AppTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.046 s -- in edu.dosw.parcial.AppTest
+[INFO]
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+```
