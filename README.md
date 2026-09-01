@@ -27,7 +27,6 @@
 
 ![Diagrama de casos de uso.drawio.png](..%2F..%2FDiagrama%20de%20casos%20de%20uso.drawio.png)
 
-
 ---
 
 ## Evidencias
