@@ -9,7 +9,6 @@
 ## 1.
 ![Diagrama de Contexto.png](docs/images/Diagrama%20de%20Contexto.png)
 
-
 ## 2. Requerimientos
 
 **Funcionales:**
@@ -24,8 +23,8 @@
 * Tipografía: Poppins (Google Fonts)
 
 ## 3. Diagrama de casos de uso
+![Diagrama de casos de uso.drawio.png](docs/images/Diagrama%20de%20casos%20de%20uso.drawio.png)
 
-![Diagrama de casos de uso.drawio.png](..%2F..%2FDiagrama%20de%20casos%20de%20uso.drawio.png)
 
 ---
 
