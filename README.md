@@ -6,7 +6,7 @@
 ## Enunciado asignado: DOSW Parcial #3
 
 ## 1.
-![Diagrama de contexto.drawio.png](..%2F..%2FDiagrama%20de%20contexto.drawio.png)
+![Diagrama de Contexto.png](docs/images/Diagrama%20de%20Contexto.png)
 ---
 
 ## Evidencias
