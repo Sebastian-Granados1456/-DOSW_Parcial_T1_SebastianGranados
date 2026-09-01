@@ -8,6 +8,19 @@
 
 ## 1.
 ![Diagrama de Contexto.drawio.png](..%2F..%2FDiagrama%20de%20Contexto.drawio.png)
+
+## 2. Requerimientos
+
+**Funcionales:**
+
+* Cada pedido puede componerse de múltiples productos y personalizarse con ingredientes adicionales. (Builder) 
+* Cada pedido se construye seleccionando: un producto base, una o más opciones de personalización (extras) y una preferencia de entrega. (Decorator)
+* El sistema debe soportar hasta 300 pedidos simultáneos en horario pico.
+
+**No Funcionales:**
+
+* Colores de la cafetería: Azul (#1B3A5C) y Dorado (#C67A00).
+* Tipografía: Poppins (Google Fonts)
 ---
 
 ## Evidencias
