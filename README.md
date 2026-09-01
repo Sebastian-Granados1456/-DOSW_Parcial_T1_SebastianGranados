@@ -4,7 +4,7 @@
 **Nombre completo:** Sebastián Camilo Granados López
 **Grupo:** DOSW 01
 
-## Enunciado asignado (Parte 3)
+## Enunciado asignado: DOSW Parcial #3
 
 ---
 
