@@ -49,6 +49,9 @@ Construcción y personalización de pedidos
 *  Implementar el cálculo del precio final del pedido, sumando el precio base, los extras aplicados vía Decorator y el costo
    de entrega.
 
+## 6. Patrones
+
+* Builder(Creacional) y Decorator(Estructural)
 ---
 
 ## Evidencias
