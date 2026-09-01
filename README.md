@@ -41,6 +41,13 @@ Construcción y personalización de pedidos
 **Historia de Usuario:**
 * Como cliente quiero armar mi pedido seleccionado hasta 5 productos diferentes, cada uno con sus propios extras para poder personalizar mi comida antes de la confirmación de mi compra.
 
+**Tareas:**
+* Implementar la clase PedidoBuilder (patrón Builder) que permita construir un pedido de forma incremental, validando que no
+  se superen los 5 productos.
+* Implementar los Decorator de extras (ej. ProteinaExtraDecorator, AguacateDecorator) que envuelvan un producto base y sumen
+  su costo sin alterar la clase original del producto.
+*  Implementar el cálculo del precio final del pedido, sumando el precio base, los extras aplicados vía Decorator y el costo
+   de entrega.
 
 ---
 
