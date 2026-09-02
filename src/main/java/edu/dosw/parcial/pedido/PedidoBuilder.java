@@ -5,6 +5,8 @@ import java.util.List;
 
 public class PedidoBuilder {
     private static final int MAX_PRODUCTOS = 5;
+    public String getUsuario;
+    public PreferenciaEntrega getEntrega;
 
     private String usuario;
     private final List<ItemPedido> items = new ArrayList<>();
